@@ -46,7 +46,6 @@ h6 {font-size: 1.563rem;}
 
 a {
     color: var(--accent);
-    cursor: url("../images/pizza-slice-evil.png"), auto;
 }
 
 button {
