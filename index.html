@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/grid.css">
     <link rel="stylesheet" href="./css/main.css">
 
     <link rel="icon" href="./images/favicon.png">
@@ -16,8 +17,8 @@
     <a href="#main-content" class="skip-link">Skip to Content</a>
     <header>
         <nav>
-            <div>
-                <ul>
+            <div class="nav-container max-width">
+                <ul class="list-group-inline">
                     <li><a href="">Link 1</a></li>
                     <li><a href=""></a></li>
                     <li><a href=""></a></li>
@@ -27,18 +28,58 @@
         </nav>
 
         <div class="hero-banner">
-            <div class="max-width"><h1>Hero banner text hihihaha</h1></div>
+            <div class="max-width pad-lr-20">
+                <h1>Hero banner text hihihaha</h1>
+            </div>
         </div>
     </header>
 
     <main id="main-content">
-        <div class="max-width">
-            <b>hello pookie</b>
+        <section class="max-width pad-tb-100 pad-lr-20">
+            <h2>hello pookie</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus delectus incidunt possimus ab, iste eligendi modi quisquam? Aliquid, dolorum numquam. Officia eum eligendi assumenda unde mollitia, nam labore quaerat harum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae ad possimus mollitia maiores et. Repudiandae accusamus voluptatem velit libero optio incidunt fugit iste nesciunt, sapiente, facere quaerat eum, voluptatibus molestiae.</p>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolore, nobis enim nesciunt distinctio quam quibusdam, pariatur cupiditate sed esse ratione itaque animi non, labore illo ipsam natus fugit inventore iste! Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit beatae vero expedita dolores ratione, nihil commodi. Corrupti ullam et non nihil illum officia error voluptate nisi, ut veritatis deserunt architecto?</p>
             <img src="https://placehold.co/1600x900" alt="">
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id quia ut quo cumque debitis sit. Doloribus ea consequuntur aspernatur ducimus temporibus quae! Veniam explicabo et blanditiis quidem fugit saepe ipsum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos non ut velit repellat voluptates earum. Amet temporibus qui suscipit distinctio rerum molestias cupiditate corporis enim. Repellendus est illo iusto voluptas.</p>
-        </div>
+        </section>
+
+        <hr class="max-width-narrow">
+
+        <section class="pad-tb-100 pad-lr-20">
+            <h2 class="max-width pad-tb-20">lorem ipsum header 2</h2>
+            <!-- Grid within a grid - a big outer grid for card container and a smaller 2/3rd grid for the card content -->
+            <div class="max-width grid"> 
+                
+                <div class="bg-white marg-b-50 grid grid-content-center grid-1-2-3rd">
+                    <img src="https://placehold.co/900x900" alt="">
+                    <div class="pad-20">
+                        <h3>Mexico</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus ut beatae non perferendis sunt corporis quibusdam voluptate, neque eum iste nobis quidem blanditiis sequi vitae quaerat. Sit aliquid voluptates magni.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white marg-b-50 grid grid-content-center grid-1-2-3rd">
+                    <img src="https://placehold.co/900x900" alt="">
+                    <div class="pad-20">
+                        <h3>India</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus ut beatae non perferendis sunt corporis quibusdam voluptate, neque eum iste nobis quidem blanditiis sequi vitae quaerat. Sit aliquid voluptates magni.</p>
+                    </div>
+                </div>
+
+                <div class="bg-white marg-b-50 grid grid-content-center grid-1-2-3rd">
+                    <img src="https://placehold.co/900x900" alt="">
+                    <div class="pad-20">
+                        <h3>Vietnam</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus ut beatae non perferendis sunt corporis quibusdam voluptate, neque eum iste nobis quidem blanditiis sequi vitae quaerat. Sit aliquid voluptates magni.</p>
+                    </div>
+                </div>
+            
+            </div>
+
+
+        </section>
+
+
         
     </main>
 
