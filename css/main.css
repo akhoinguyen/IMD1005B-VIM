@@ -12,6 +12,7 @@
 body {
     min-height: 100vh;
     background-color: var(--light-accent);
+    cursor: url("../images/pizza-slice.png"), auto;
 }
 
 h1,
@@ -45,6 +46,7 @@ h6 {font-size: 1.563rem;}
 
 a {
     color: var(--accent);
+    cursor: url("../images/pizza-slice-evil.png"), auto;
 }
 
 button {

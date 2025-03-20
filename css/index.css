@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+
+.home-gallery .grid {
+    grid-template-columns: 1fr 1fr;
+}
+
+.home-gallery .grid-except {
+    grid-template-columns: 1fr;
+}
+
+}
