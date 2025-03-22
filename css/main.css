@@ -265,8 +265,13 @@ nav .tagline {
 }
 
 .hero-banner {
-    padding-top: 200px;
+    padding-top: 256px;
     background: url("https://placehold.co/1600x900");
+    min-height: 60vh;
+}
+
+.hero-content {
+    padding-top: 20vh !important;
 }
 
 
@@ -297,5 +302,9 @@ nav .tagline {
 
     .nav-container li {
         width: max-content;
+    }
+
+    .hero-banner {
+        padding-top: 64px;
     }
 }
