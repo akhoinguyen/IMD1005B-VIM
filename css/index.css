@@ -1,3 +1,11 @@
+.hero-banner {
+    background-image: url("https://placehold.co/1600x900");
+}
+
+.hero-content {
+    padding-top: 20vh !important ;
+}
+
 @media only screen and (max-width: 768px) {
 
 .home-gallery .grid {

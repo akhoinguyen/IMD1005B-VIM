@@ -1,0 +1,24 @@
+@media only screen and (max-width: 768px) {
+.hero-content {
+    padding-top: 20px;
+}
+
+.hero-img {
+    height: fit-content;
+}
+}
+
+@media only screen and (min-width: 768px) {
+
+.hero-banner img {
+    position: absolute;
+    width: 50vw;
+    height: calc(100% - 64px);
+    object-fit: cover;
+    left: calc(-50vw + 50%);
+}
+
+.hero-content {
+padding-top: 10vh;
+}
+}
