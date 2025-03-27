@@ -5,3 +5,8 @@
 .hero-content {
     padding-top: 20vh !important ;
 }
+
+img {
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+}
