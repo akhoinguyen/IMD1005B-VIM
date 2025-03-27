@@ -168,6 +168,9 @@ hr {
     background-color: var(--accent);
 }
 
+.white {
+    color: var(--white);
+}
 
 
 /* -------------------------MARGINS PADDING ---------------------- */
