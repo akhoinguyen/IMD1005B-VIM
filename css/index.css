@@ -1,7 +1,17 @@
 .hero-banner {
-    background-image: url("https://placehold.co/1600x900");
+    background-image: url("../images/home-hero.jpg");
 }
 
 .hero-content {
     padding-top: 20vh !important ;
+}
+
+img {
+    aspect-ratio: 3 / 2;
+    height: 100%;
+    object-fit: cover;
+}
+
+button {
+    min-width: 200px;
 }
