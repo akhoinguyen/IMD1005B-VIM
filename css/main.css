@@ -163,6 +163,10 @@ hr {
     color: var(--white);
 }
 
+.bold {
+    font-weight: bold;
+}
+
 
 /* -------------------------MARGINS PADDING ---------------------- */
 
