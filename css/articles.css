@@ -22,6 +22,11 @@
     transform: scale(1.03);
 }
 
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+}
+
 
 @media only screen and (max-width: 768px) {
 .hero-content {
