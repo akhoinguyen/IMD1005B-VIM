@@ -6,11 +6,11 @@
     aspect-ratio: 3 / 2;
 }
 
-.callout img {
+.callout img, .good-reads img {
     aspect-ratio: 1 / 1; 
 }
 
-.hero-img img, .card-grid img, .callout img {
+.hero-img img, .card-grid img, .callout img, .good-reads img {
     object-fit: cover;
 }
 
@@ -25,6 +25,10 @@
 iframe {
     aspect-ratio: 16 / 9;
     width: 100%;
+}
+
+.good-reads h3 {
+    font-size: 1.5rem;
 }
 
 
