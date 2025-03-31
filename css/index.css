@@ -1,9 +1,10 @@
 .hero-banner {
     background-image: url("../images/home-hero.jpg");
+    height: 100vh;
 }
 
 .hero-content {
-    padding-top: 20vh !important ;
+    padding-top: 10vh;
 }
 
 img {
@@ -14,4 +15,14 @@ img {
 
 button {
     min-width: 200px;
+}
+
+blockquote p {
+    font-size: 2rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .hero-content {
+        padding-top: 40vh;
+    }
 }
