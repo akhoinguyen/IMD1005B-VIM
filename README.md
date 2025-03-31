@@ -26,5 +26,13 @@
 bhaucha_vada_pav from Instagram: (https://www.instagram.com/p/DGLRTUfNSd8/)
 - Photo by Sateesh Polkam from Pexels: (https://www.pexels.com/photo/delicious-food-on-a-cutting-board-18496583/)
 - Photo by TripBeam: (http://tripbeam.ca/blog/discover-the-old-world-charm-of-madurai/amp/)
+- Photo by Jack Baghel from Pexels: (https://www.pexels.com/photo/a-dish-with-meat-and-a-green-sauce-on-the-side-20395272/)
+- Photo by Dinesh Kumar: (https://www.britannica.com/topic/Gateway-of-India)
+- Photo by Petrina Verma Sarkar from The Spruce Eats: (https://www.thespruceeats.com/rasgulla-indian-dessert-1957839)
+- Photo by Marek Piwnicki from Pexels: (https://www.pexels.com/photo/vibrant-red-chili-peppers-in-indian-street-market-31346441/)
+- Photo by 121Clicks: (https://121clicks.com/inspirations/colourful-beauty-india-travel-photography)
+- Photo by Freeimages: (https://www.freeimages.com/photo/chikoo-1317395)
+- Photo by :
+- Photo by :
 - Photo by :
 - Photo by :
