@@ -96,16 +96,11 @@ button:hover {
 }
 
 button a {
-    color: var(--white) !important;
+    color: var(--white);
     display: inline-block;
     text-decoration: none;
     width: 100%;
     padding: 10px;
-}
-
-
-hr {
-    border-top: 10px dotted var(--accent);
 }
 
 
