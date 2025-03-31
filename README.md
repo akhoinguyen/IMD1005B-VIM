@@ -17,3 +17,14 @@
 - Photo by [Hòa Lê Đình from Pexels](https://www.pexels.com/photo/tranquil-moment-by-the-lake-in-hanoi-park-29827506/)
 - Photo by [Võ Văn Tiến on Pexels](https://www.pexels.com/photo/traditional-farmer-with-buffalo-in-h-i-an-rice-field-29677340/)
 - Photo by FOX ^.ᆽ.^= ∫: https://www.pexels.com/photo/fish-sauce-with-chilli-on-a-wooden-tray-13319171/
+
+- Photo by Wallpaper Flare: (https://www.wallpaperflare.com/1600x1200-px-ancient-architecture-building-india-indian-mausoleum-taj-mahal-anime-final-fantasy-hd-art-wallpaper-sgmut)
+- Photo by Jack Baghel from Pexels: (https://www.pexels.com/photo/food-on-plate-with-bowls-of-sauces-20422129/)
+- Photo by Authentic India Tours: (https://www.authenticindiatours.com/places/darjeeling/)
+- Photo by Shutterstock: (https://www.hindustantimes.com/htcity/best-places-to-visit-in-and-around-shillong-the-scotland-of-the-east-101701332422540.html)
+- Photo by 
+bhaucha_vada_pav from Instagram: (https://www.instagram.com/p/DGLRTUfNSd8/)
+- Photo by Sateesh Polkam from Pexels: (https://www.pexels.com/photo/delicious-food-on-a-cutting-board-18496583/)
+- Photo by TripBeam: (http://tripbeam.ca/blog/discover-the-old-world-charm-of-madurai/amp/)
+- Photo by :
+- Photo by :
