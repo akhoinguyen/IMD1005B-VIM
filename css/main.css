@@ -13,7 +13,13 @@
 body {
     min-height: 100vh;
     background-color: var(--light-accent);
-    cursor: url("../images/pizza-slice.png"), auto;
+    cursor: url("../images/samosa-cursor.webp"), auto;
+}
+
+incursor.body {
+    min-height: 100vh;
+    background-color: var(--light-accent);
+    cursor: url("../images/samosa-cursor.webp"), auto;
 }
 
 h1, h2, h3, h4, h5, h6, p {
