@@ -16,9 +16,7 @@ body {
     cursor: url("../images/samosa-cursor.webp"), auto;
 }
 
-incursor.body {
-    min-height: 100vh;
-    background-color: var(--light-accent);
+.samosa-cursor {
     cursor: url("../images/samosa-cursor.webp"), auto;
 }
 
