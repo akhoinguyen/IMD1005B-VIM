@@ -23,6 +23,7 @@ Cursor pizza icon by [Icons_Field on Freepik](https://www.freepik.com/icon/pizza
 - Photo by [FOX ^.ᆽ.^= ∫ on Pexels](https://www.pexels.com/photo/fish-sauce-with-chilli-on-a-wooden-tray-13319171/)
 - Photo by [HONG SON on Pexels](https://www.pexels.com/photo/people-buying-food-at-the-market-in-vietnam-25949510/)
 - Photo by [Văn Nguyễn Hoàng on Pexels](https://www.pexels.com/photo/woman-working-at-food-bar-20009105/)
+- Photo by Hana Joi: https://www.pexels.com/photo/hand-holding-sandwich-for-takeaway-6348796/
 
 ### India
 
