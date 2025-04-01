@@ -13,15 +13,19 @@
 body {
     min-height: 100vh;
     background-color: var(--light-accent);
-    cursor: url("../images/samosa-cursor.webp"), auto;
+    cursor: url("../images/icons/fork-spoon-cursor.png"), auto;
 }
 
 .samosa-cursor {
-    cursor: url("../images/samosa-cursor.png"), auto;
+    cursor: url("../images/icons/samosa-cursor.png"), auto;
+}
+
+.taco-cursor {
+    cursor: url("../images/icons/taco-cursor.png"), auto;
 }
 
 .chopsticks-cursor {
-    cursor: url("../images/chopsticks.png"), auto;
+    cursor: url("../images/icons/chopsticks-cursor.png"), auto;
 }
 
 h1, h2, h3, h4, h5, h6, p {
