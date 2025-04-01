@@ -13,7 +13,7 @@
 body {
     min-height: 100vh;
     background-color: var(--light-accent);
-    cursor: url("../images/icons/samosa-cursor.webp"), auto;
+    cursor: url("../images/icons/fork-spoon-cursor.png"), auto;
 }
 
 .samosa-cursor {
